@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DDU\\sem 5\\WAD\\BookReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|D:\\DDU\\sem 5\\WAD\\BookReader\\bookreader\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|solutionrelative:bookreader\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|D:\\DDU\\sem 5\\WAD\\BookReader\\bookreader\\uploadbook.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|solutionrelative:bookreader\\uploadbook.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__DDU_SEM_5_WAD_BOOKREADER_BOOKREADER_APP_DATA_BOOKREADER.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__DDU_SEM_5_WAD_BOOKREADER_BOOKREADER_APP_DATA_BOOKREADER.MDF/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|D:\\DDU\\sem 5\\WAD\\BookReader\\bookreader\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|solutionrelative:bookreader\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|D:\\DDU\\sem 5\\WAD\\BookReader\\bookreader\\uploadbook.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|solutionrelative:bookreader\\uploadbook.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|D:\\DDU\\sem 5\\WAD\\BookReader\\bookreader\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|solutionrelative:bookreader\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|d:\\ddu\\sem 5\\wad\\bookreader\\bookreader\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|solutionrelative:bookreader\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|d:\\ddu\\sem 5\\wad\\bookreader\\bookreader\\adminhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|solutionrelative:bookreader\\adminhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|d:\\ddu\\sem 5\\wad\\bookreader\\bookreader\\adminhome.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|solutionrelative:bookreader\\adminhome.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|D:\\DDU\\sem 5\\WAD\\BookReader\\bookreader\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|solutionrelative:bookreader\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|solutionrelative:BookReader\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|solutionrelative:BookReader\\Homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|D:\\DDU\\sem 5\\WAD\\BookReader\\bookreader\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|solutionrelative:bookreader\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|d:\\ddu\\sem 5\\wad\\bookreader\\bookreader\\homepage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4489590-267B-448B-8205-C3955965FB73}|BookReader\\BookReader.csproj|solutionrelative:bookreader\\homepage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__DDU_SEM_5_WAD_BOOKREADER_BOOKREADER_APP_DATA_BOOKREADER.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-04T08:50:01.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__DDU_SEM_5_WAD_BOOKREADER_BOOKREADER_APP_DATA_BOOKREADER.MDF/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-04T08:49:24.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Uploadbook.aspx.cs",
+              "DocumentMoniker": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Uploadbook.aspx.cs",
+              "RelativeDocumentMoniker": "BookReader\\Uploadbook.aspx.cs",
+              "ToolTip": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Uploadbook.aspx.cs",
+              "RelativeToolTip": "BookReader\\Uploadbook.aspx.cs",
+              "ViewState": "AgIAADgAAAAAm5mZmdkpwD8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:27:48.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminHome.aspx",
+              "DocumentMoniker": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\AdminHome.aspx",
+              "RelativeDocumentMoniker": "BookReader\\AdminHome.aspx",
+              "ToolTip": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\AdminHome.aspx",
+              "RelativeToolTip": "BookReader\\AdminHome.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T03:22:39.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Uploadbook.aspx",
+              "DocumentMoniker": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Uploadbook.aspx",
+              "RelativeDocumentMoniker": "BookReader\\Uploadbook.aspx",
+              "ToolTip": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Uploadbook.aspx",
+              "RelativeToolTip": "BookReader\\Uploadbook.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-30T19:21:18.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Signup.aspx",
+              "RelativeDocumentMoniker": "BookReader\\Signup.aspx",
+              "ToolTip": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Signup.aspx",
+              "RelativeToolTip": "BookReader\\Signup.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-16T06:57:01.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "BookReader\\Signup.aspx.cs",
+              "ToolTip": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Signup.aspx.cs",
+              "RelativeToolTip": "BookReader\\Signup.aspx.cs",
+              "ViewState": "AgIAAB0AAADAm5mZmRkswBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:54:16.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminHome.aspx.cs",
+              "DocumentMoniker": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\AdminHome.aspx.cs",
+              "RelativeDocumentMoniker": "BookReader\\AdminHome.aspx.cs",
+              "ToolTip": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\AdminHome.aspx.cs",
+              "RelativeToolTip": "BookReader\\AdminHome.aspx.cs",
+              "ViewState": "AgIAAAQAAABgMzMzM3MvwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:26:48.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "BookReader\\Login.aspx.cs",
+              "ToolTip": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Login.aspx.cs",
+              "RelativeToolTip": "BookReader\\Login.aspx.cs",
+              "ViewState": "AgIAADMAAAAQzczMzEwwwEAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:24:35.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminHome.aspx.designer.cs",
+              "DocumentMoniker": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\AdminHome.aspx.designer.cs",
+              "RelativeDocumentMoniker": "BookReader\\AdminHome.aspx.designer.cs",
+              "ToolTip": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\AdminHome.aspx.designer.cs",
+              "RelativeToolTip": "BookReader\\AdminHome.aspx.designer.cs",
+              "ViewState": "AgIAADUAAAAAMzMzM3MiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:45:26.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Login.aspx",
+              "RelativeDocumentMoniker": "BookReader\\Login.aspx",
+              "ToolTip": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Login.aspx",
+              "RelativeToolTip": "BookReader\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-16T06:56:55.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Web.config",
+              "RelativeDocumentMoniker": "BookReader\\Web.config",
+              "ToolTip": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Web.config",
+              "RelativeToolTip": "BookReader\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-03T19:21:41.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Homepage.aspx",
+              "DocumentMoniker": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Homepage.aspx",
+              "RelativeDocumentMoniker": "BookReader\\Homepage.aspx",
+              "ToolTip": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Homepage.aspx",
+              "RelativeToolTip": "BookReader\\Homepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-17T03:07:32.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Homepage.aspx.cs",
+              "DocumentMoniker": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Homepage.aspx.cs",
+              "RelativeDocumentMoniker": "BookReader\\Homepage.aspx.cs",
+              "ToolTip": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Homepage.aspx.cs",
+              "RelativeToolTip": "BookReader\\Homepage.aspx.cs",
+              "ViewState": "AgIAAE0AAABAxMzMzIwowDkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:20:10.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Homepage.aspx.designer.cs",
+              "DocumentMoniker": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Homepage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "BookReader\\Homepage.aspx.designer.cs",
+              "ToolTip": "D:\\DDU\\sem 5\\WAD\\BookReader\\BookReader\\Homepage.aspx.designer.cs",
+              "RelativeToolTip": "BookReader\\Homepage.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:04:34.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
